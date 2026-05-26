@@ -17,10 +17,17 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 1938291c08357684aa7cca906b4cae10
   m_SerializeEntries:
-  - m_GUID: 0720192f0002a584dbde7711d50d0249
-    m_Address: Canvas
+  - m_GUID: 90b95b192c0cfee49acbb5bfc053365c
+    m_Address: MainScene 1
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - ButtonUi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7a4b6daf9ebb594e8e9639ff38bbcc0
+    m_Address: TestCanvas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ButtonUi
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b3aa8b7a635431f45bbdf5790e3d3c31, type: 2}

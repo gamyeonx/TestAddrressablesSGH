@@ -28,7 +28,7 @@ public class DownManager : MonoBehaviour
         waitMessage.SetActive(true);
         downMessage.SetActive(false);
         StartCoroutine(InitAddressable());
-        //StartCoroutine(CheckUpdateFiles());
+        StartCoroutine(CheckUpdateFiles());
     }
 
     IEnumerator InitAddressable()

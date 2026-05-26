@@ -472,9 +472,9 @@ MonoBehaviour:
   sizeInfoText: {fileID: 1944382737}
   downValText: {fileID: 1264446773}
   defaultLabel:
-    m_LabelString: default
+    m_LabelString: ButtonUi
   matLabel:
-    m_LabelString: default
+    m_LabelString: ButtonUi
 --- !u!4 &297806393
 Transform:
   m_ObjectHideFlags: 0

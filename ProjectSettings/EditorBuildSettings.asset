@@ -20,8 +20,17 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/New Scene.unity
     guid: 328f91345115eba488892e26498abfe6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestScene/Old Update Button.unity
     guid: 8fd60e6acb7893a409c2a5d8397730d6
+  - enabled: 1
+    path: Assets/Scenes/RealTestScene/LoadScene.unity
+    guid: ddc3c8f206764d44e88bb3e53e58f168
+  - enabled: 0
+    path: Assets/Scenes/RealTestScene/MainScene.unity
+    guid: 397abfda0d2f9f144abcc89e65d57bd3
+  - enabled: 1
+    path: Assets/Scenes/RealTestScene/MainScene 1.unity
+    guid: 90b95b192c0cfee49acbb5bfc053365c
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: a766b360b86e6674e8a230540629a893, type: 2}
