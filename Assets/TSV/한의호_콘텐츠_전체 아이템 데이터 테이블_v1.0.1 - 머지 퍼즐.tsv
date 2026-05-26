@@ -1,0 +1,15 @@
+ID	Name	level	Type	Resource
+int	string	int	enum	string
+20001	마술 가위(Lv 5)	5	scissors	
+20002	마술 모자(Lv 5)	5	hat	
+20003	자명종(15분)	1	clock	
+20004	보석 1개(Lv 1)	1	jewel	
+20005	보석 3개(LV 2)	2	jewel	
+20006	보석 8개(LV 3)	3	jewel	
+20007	코인 1개(Lv 1)	1	coin	
+20008	코인 3개(Lv 2)	2	coin	
+20009	코인 8개(Lv 3)	3	coin	
+20010	코인 20개(Lv 4)	4	coin	
+20011	털뭉치 인형(Lv 5)	5	toy	
+20012	냥바구니(Lv 1)	1	meow bucket	
+20013	냥냥스톤(Lv 4)	4	meow stone	
